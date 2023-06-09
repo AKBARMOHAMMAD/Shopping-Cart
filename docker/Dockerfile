@@ -1,6 +1,6 @@
 FROM openjdk:11
 
-EXPOSE 8070
+EXPOSE 8081
 
 ENV APP_HOME /usr/src/app
 
